@@ -15,3 +15,6 @@ Sample website with plenty of files for demos. As stated above the main purpose 
 This is a simple web projects, deploy,ent can be on any web server or even local file system
 
 ## How To Contribute
+
+###Copyright
+2023 Git Training
