@@ -18,4 +18,4 @@ This is a simple web projects, deploy,ent can be on any web server or even local
 Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
-2023 Git Training
+2023 Git Training. All rights reserved.
